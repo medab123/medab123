@@ -22,6 +22,8 @@ I invite you to check out my GitHub repositories to see some of the projects I'v
 
 
 
+📈 - Statistics  ✨: 
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=medab123&theme=radical)](https://git.io/streak-stats)
 
